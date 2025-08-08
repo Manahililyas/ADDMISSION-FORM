@@ -1,0 +1,34 @@
+*
+{
+    border-color: rgb(2, 62, 138);
+    border-radius: 5px 5% / 15px 10%;
+    background-color:rgb(251, 247, 244);
+    text-align: left;
+}
+h1
+{
+    font-style: oblique;
+    color: rgb(0, 119, 182);
+    text-align: center;
+    text-decoration: dotted underline;
+}
+label
+{ text-decoration: underline;
+    color: rgb(0, 119, 182);
+}
+span
+{
+color:rgb(0, 150, 199)
+}
+ ::placeholder
+{
+    text-align: center;
+    font-style:italic;
+    color:rgb(0, 119, 182)
+    
+}
+#DOB
+{
+    color: rgb(0, 150, 199);
+}
+
