@@ -1,1 +1,1 @@
-THIS IS MY 1ST HTML AND SCC SMALL PROJECT 
+This is my vey 1st html and css project
